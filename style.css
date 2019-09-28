@@ -1,0 +1,25 @@
+body {
+    background-color:black;
+    padding: 25px;
+  }
+  h1 {
+    color: black;
+    font-family: verdana;
+    background-color: peachpuff;
+    text-align: center;
+  }
+  #p1 {
+    color:wheat;
+    font-family: courier;
+    background-color: rgb(224, 100, 84);
+    padding: 40px;
+    margin: 50px;
+    border:
+  }
+  #p2 {
+    color:white;
+    font-family: courier;
+    background-color: rgb(40, 182, 192);
+    padding: 40px;
+    margin: 50px;
+  }
